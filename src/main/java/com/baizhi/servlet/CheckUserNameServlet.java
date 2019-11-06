@@ -9,6 +9,8 @@ import java.io.IOException;
 public class CheckUserNameServlet extends HttpServlet {
 
 
+	//哈哈邹定帆是个大傻子
+	
     @Override
     protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         try {
